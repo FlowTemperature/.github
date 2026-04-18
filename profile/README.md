@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FlowTemperature&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Infraestrutura%20de%20IA%20e%20Pagamentos%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FlowTemperature&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Infraestrutura%20%20%20e%20Segurança%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Construindo+IA+e+Pagamentos+do+zero+%F0%9F%9A%80;Flow+API+%7C+PayPlus+%7C+Feito+no+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Construindo+Infraestrutura+do+zero+%F0%9F%9A%80;Flow+API+%7C+PayPlus+%7C+Feito+no+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
 
 <br/><br/>
 
