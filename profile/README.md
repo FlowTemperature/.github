@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=FlowTemperature&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Infraestrutura%20de%20IA%20e%20Pagamentos%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FlowTemperature&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Infraestrutura%20de%20IA%20e%20Pagamentos%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Construindo+IA+e+Pagamentos+do+zero+%F0%9F%9A%80;Flow+API+%7C+PayPlus+%7C+Feito+no+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
+
+<br/><br/>
 
 [![Flow API](https://img.shields.io/badge/🔥_Flow_API-Live-6366f1?style=for-the-badge&logoColor=white)](https://flow.squareweb.app)
 [![PayPlus](https://img.shields.io/badge/💳_PayPlus-Live-10b981?style=for-the-badge&logoColor=white)](https://payplus.squareweb.app)
@@ -78,16 +82,16 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Repositórios
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mozartdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9&ring_color=6366f1" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=f1f5f9&langs_count=6" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mozartdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=818cf8&fire=f59e0b&currStreakLabel=6366f1&sideLabels=f1f5f9&dates=8b9ab0" height="165"/>
+<a href="https://github.com/FlowTemperature/flowapi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlowTemperature&repo=flowapi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9" height="140"/>
+</a>
+<a href="https://github.com/FlowTemperature/payplus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlowTemperature&repo=payplus&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=34d399&text_color=f1f5f9" height="140"/>
+</a>
 
 </div>
 
@@ -96,6 +100,10 @@
 ## 🛠️ Stack completa
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=34D399&center=true&vCenter=true&repeat=true&width=500&lines=Python+%7C+FastAPI+%7C+Flask+%7C+PostgreSQL;Supabase+%7C+Ethereum+%7C+Groq+%7C+OpenAI;Cloudflare+%7C+Square+Cloud+%7C+Web3" alt="Stack"/>
+
+<br/><br/>
 
 **Linguagens**
 
@@ -153,15 +161,7 @@ FlowTemperature/
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozartdev&bg_color=0d1117&color=818cf8&line=6366f1&point=f1f5f9&area=true&hide_border=true&area_color=6366f1" width="100%"/>
-
-</div>
-
----
 
 ## 🔐 Propriedade Intelectual
 
@@ -182,8 +182,8 @@ FlowTemperature/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-**feito com ♥ no Brasil · FlowTemperature © 2026**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&lines=feito+com+♥+no+Brasil+·+FlowTemperature+©+2026;Todos+os+direitos+reservados+🔒" alt="Footer"/>
 
 </div>
