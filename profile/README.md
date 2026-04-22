@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Flow API](https://img.shields.io/badge/🔥_Flow_API-Live-6366f1?style=for-the-badge&logoColor=white)](https://flow.squareweb.app)
-[![PayPlus](https://img.shields.io/badge/💳_PayPlus-Live-10b981?style=for-the-badge&logoColor=white)](https://payplus.squareweb.app)
+[![PayPlus](https://img.shields.io/badge/🛡️_MatchIP-Live-10b981?style=for-the-badge&logoColor=white)](https://payplus.squareweb.app)
 [![Licença](https://img.shields.io/badge/Licença-Proprietária-ef4444?style=for-the-badge)](https://github.com/FlowTemperature)
 [![Feito no Brasil](https://img.shields.io/badge/Feito_com_♥-no_Brasil-009c3b?style=for-the-badge)](https://github.com/FlowTemperature)
 
@@ -63,9 +63,9 @@
 
 **O que faz:**
 - Escaneia IPS
-- [com API](https://matchip.squareweb.app/docs)
+- [API](https://matchip.squareweb.app/docs)
 - [CLI](https://www.npmjs.com/package/@flowtemperature/matchip)
-- Analise de AI
+- Analise  AI de IPS
 - Licença MIT
 
 **Stack:**
