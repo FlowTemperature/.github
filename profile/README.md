@@ -57,24 +57,22 @@
 </td>
 <td width="50%" valign="top">
 
-### 💳 [PayPlus](https://payplus.squareweb.app)
+### 🛡️ [Match IP](https://matchip.squareweb.app/)
 
 > Gateway de pagamentos com Pluses (P$) via Ethereum.
 
 **O que faz:**
-- 💰 Moeda própria — Pluses (P$)
-- 🔗 Pagamentos reais em **ETH** + **MetaMask**
-- 🌐 API externa para sites (`ppk_...`)
-- 🔍 Explorer público ao vivo (blockchain-style)
-- 🔒 Cloudflare Turnstile anti-bot
-- 📡 Webhooks com assinatura **HMAC**
+- Escaneia IPS
+- [com API](https://matchip.squareweb.app/docs)
+- [CLI](https://www.npmjs.com/package/@flowtemperature/matchip)
+- Analise de AI
+- Licença MIT
 
 **Stack:**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![npm](https://img.shields.io/badge/npm-3C3C3D?style=flat-square&logo=npm&logoColor=white)
 
 </td>
 </tr>
@@ -89,8 +87,8 @@
 <a href="https://github.com/FlowTemperature/flowapi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlowTemperature&repo=flowapi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=f1f5f9" height="140"/>
 </a>
-<a href="https://github.com/FlowTemperature/payplus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlowTemperature&repo=payplus&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=34d399&text_color=f1f5f9" height="140"/>
+<a href="https://github.com/FlowTemperature/Match-IP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlowTemperature&repo=Match-IP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=34d399&text_color=f1f5f9" height="140"/>
 </a>
 
 </div>
