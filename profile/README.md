@@ -59,7 +59,7 @@
 
 ### 🛡️ [Match IP](https://matchip.squareweb.app/)
 
-> Gateway de pagamentos com Pluses (P$) via Ethereum.
+> API e site de escaneamento de ips
 
 **O que faz:**
 - Escaneia IPS
