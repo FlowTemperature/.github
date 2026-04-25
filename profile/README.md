@@ -124,10 +124,6 @@
 ![Squarecloud](https://img.shields.io/badge/Square_Cloud-6366f1?style=for-the-badge&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**Blockchain**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 **IA**
 
@@ -143,18 +139,13 @@
 ```
 FlowTemperature/
 ├── 🔥 Flow API                    # Gateway de IA
-│   ├── /generate                  # Endpoint principal
-│   ├── /v1/chat/completions       # Compatível com OpenAI SDK
-│   ├── /models                    # Lista de modelos
-│   ├── /dashboard                 # Gerenciamento de chaves
-│   └── Middleware Firewall        # Rate limit + Blacklist
-│
-└── 💳 PayPlus                     # Gateway de pagamentos
-    ├── /paycheckout               # Checkout estilo Stripe
-    ├── /ext/create-payment        # API para sites externos
-    ├── /pay/<token>               # Página branded de pagamento
-    ├── /explorer                  # Blockchain explorer público
-    └── /api-docs                  # Documentação da API
+   ├── /generate                  # Endpoint principal
+   ├── /v1/chat/completions       # Compatível com OpenAI SDK
+   ├── /models                    # Lista de modelos
+   ├── /dashboard                 # Gerenciamento de chaves
+   └── Middleware Firewall        # Rate limit + Blacklist
+
+
 ```
 
 ---
