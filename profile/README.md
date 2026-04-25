@@ -139,11 +139,11 @@
 ```
 FlowTemperature/
 ├── 🔥 Flow API                    # Gateway de IA
-   ├── /generate                  # Endpoint principal
-   ├── /v1/chat/completions       # Compatível com OpenAI SDK
-   ├── /models                    # Lista de modelos
-   ├── /dashboard                 # Gerenciamento de chaves
-   └── Middleware Firewall        # Rate limit + Blacklist
+├── /generate                  # Endpoint principal     
+├── /v1/chat/completions       # Compatível com OpenAI SDK
+├── /models                    # Lista de modelos
+├── /dashboard                 # Gerenciamento de chaves
+└── Middleware Firewall        # Rate limit + Blacklist
 
 
 ```
